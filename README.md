@@ -16,5 +16,5 @@ To perform a web application security assessment on the **Damn Vulnerable Web Ap
 | **SQLMap**                    | Automated SQL injection testing and database enumeration             |
 | **Mozilla Firefox** (with Burp Proxy) | Browser-based testing and interception                         |
 | **Kali Linux**                | Platform for running penetration testing tools                       |
-| **DVWA**                      | Deliberately vulnerable web application for testing                  |
+| **DVWA**                      | Deliberately vulnerable target web application for testing                  |
 
